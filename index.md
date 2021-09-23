@@ -12,6 +12,4 @@ My current research interest lies in sharing economy, e-commerce, and social med
 
 [Research Profile](./research.html)
 
-[testlin](formatnotes.md)
-
 
