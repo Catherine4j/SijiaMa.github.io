@@ -10,6 +10,6 @@ My current research interest lies in sharing economy, e-commerce, and social med
 
 [CV](./cv3.pdf)
 
-[Research Profile](./research.html)
+[Research Profile](./research.md)
 
 
