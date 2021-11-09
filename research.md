@@ -5,7 +5,7 @@ layout: default
 ## Current Research Profile
 **Working Papers**
 
-* _Sharing Benefits? The Disparate Impact of Home-sharing Platform on Industrial and Social Development_, with Fei Ren and Fei Wan, (Accpet with minor revisions at Electronic Commerce Research and Applications)
+* _Sharing Benefits? The Disparate Impact of Home-sharing Platform on Industrial and Social Development_, with Fei Ren and Fei Wan, (Accept with minor revisions at Electronic Commerce Research and Applications)
 
 * _Agglomeration among Competitors: Evidence of Heterogeneous Peer Entry Effect in Sharing Economy_, with Fei Wan and Fei Ren, (Ready for Submission)
 
